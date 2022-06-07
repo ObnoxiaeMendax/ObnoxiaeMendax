@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Jack Behnken @ObnoxiaeMendax
+- 👋 Hi, I’m  Jack @ObnoxiaeMendax
 - 👀 I’m interested in history, art, music, woodworking, sleep
 - 🌱 I’m currently learning late medieval byzantine history as a masters student at the University of New Mexico
 - 💞️ I’m looking to collaborate on raspberry pi projects, gis, CAD
